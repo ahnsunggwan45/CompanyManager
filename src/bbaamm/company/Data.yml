@@ -1,0 +1,43 @@
+---
+point:
+  1번: 3000
+  0번: 0
+company:
+  0번:
+    name: ㅁ
+    island: 0
+    owner: rety17
+    members:
+      rety17: 회장
+    maxMember: 5
+    queue: []
+  1번:
+    name: 좋은회사
+    island: 1
+    owner: gasina18
+    members:
+      gasina18: 회장
+    maxMember: 5
+    queue: []
+players:
+  rety17:
+    companyId: 0
+    companyName: ㅁ
+    queue: false
+  aliennutria3193:
+    companyId: false
+    companyName: false
+    queue: false
+  gasina18:
+    companyId: 1
+    companyName: 좋은회사
+    queue: false
+  love0102:
+    companyId: false
+    companyName: false
+    queue: false
+  kio273:
+    companyId: false
+    companyName: false
+    queue: false
+...
